@@ -10,7 +10,7 @@
   "license": "nengi license",
   "dependencies": {
     "esm": "^3.2.22",
-    "nengi": "github:timetocode/nengi"
+    "nengi": "^1.9.0"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
